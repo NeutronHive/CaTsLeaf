@@ -1,0 +1,1 @@
+RUN setup.bat with administration permission
